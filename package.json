@@ -23,7 +23,6 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://corche.github.io/corche-site",
   "browserslist": {
     "production": [
       ">0.2%",
