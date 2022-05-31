@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/corche-site/static/css/main.073c9b0a.css",
+    "main.js": "/corche-site/static/js/main.cbc79926.js",
+    "static/js/787.7cb2e3e1.chunk.js": "/corche-site/static/js/787.7cb2e3e1.chunk.js",
+    "static/media/logo.svg": "/corche-site/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/corche-site/index.html",
+    "main.073c9b0a.css.map": "/corche-site/static/css/main.073c9b0a.css.map",
+    "main.cbc79926.js.map": "/corche-site/static/js/main.cbc79926.js.map",
+    "787.7cb2e3e1.chunk.js.map": "/corche-site/static/js/787.7cb2e3e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.cbc79926.js"
+  ]
+}
