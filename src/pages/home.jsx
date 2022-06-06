@@ -2,7 +2,7 @@ import "./home.css";
 export default function Home() {
     return (
         <>
-            <h1 className="a">테스트</h1>
+            <div className="h1 mh a h-1 fheavy">테스트</div>
         </>
     );
   }

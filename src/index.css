@@ -1,1 +1,78 @@
 body{margin: 0;}
+a{color: black; text-decoration: none;}
+
+
+.fblack{font-family: fblack;}
+.fheavy{font-family: fheavy;}
+.febold{font-family: febold;}
+.fbold{font-family: fbold;}
+.fmedium{font-family: fmedium;}
+.fregular{font-family: fregular;}
+.flight{font-family: flight;}
+.felight{font-family: felight;}
+.fthin{font-family: fthin;}
+
+.m{text-align: center;}
+.l{text-align: left;}
+.r{text-align: right;}
+
+.mh:hover{cursor: pointer;}
+
+@media all and (min-width: 601px){
+  .h1{font-size: 3em;}
+  .h2{font-size: 2.5em;}
+  .h3{font-size: 2.3em;}
+  .h4{font-size: 2.0em;}
+  .h5{font-size: 1.8em;}
+}
+@media all and (max-width: 600px){
+  .h1{font-size: 2.5em;}
+  .h2{font-size: 2em;}
+  .h3{font-size: 1.7em;}
+  .h4{font-size: 1.4em;}
+  .h5{font-size: 0.7em;}
+}
+@media all and (max-width: 300px){
+  .h1{font-size: 2em;}
+  .h2{font-size: 1.5em;}
+  .h3{font-size: 1.3em;}
+  .h4{font-size: 1em;}
+  .h5{font-size: 0.4em;}
+}
+
+@font-face {
+  font-family: fblack;
+  src: url(./font/SCDream9.otf);
+}
+@font-face {
+  font-family: fheavy;
+  src: url(./font/SCDream8.otf);
+}
+@font-face {
+  font-family: febold;
+  src: url(./font/SCDream7.otf);
+}
+@font-face {
+  font-family: fbold;
+  src: url(./font/SCDream6.otf);
+}
+@font-face {
+  font-family: fmedium;
+  src: url(./font/SCDream5.otf);
+}
+@font-face {
+  font-family: fregular;
+  src: url(./font/SCDream4.otf);
+}
+@font-face {
+  font-family: flight;
+  src: url(./font/SCDream3.otf);
+}
+@font-face {
+  font-family: felight;
+  src: url(./font/SCDream2.otf);
+}
+@font-face {
+  font-family: fthin;
+  src: url(./font/SCDream1.otf);
+}
