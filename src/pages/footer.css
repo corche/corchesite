@@ -1,0 +1,6 @@
+.h-footer{background-color: rgb(15, 15, 15); padding: 30px; height: 100px;}
+.h-footer_title{font-size: 2em; margin: 0px 0px 30px 10px;}
+.h-footer_group{display: flex;}
+.h-footer_link a{padding: 5px 20px 5px 20px; margin: auto 10px; border-radius: 4px; background-color: rgb(35, 35, 35);}
+.h-footer_link a:hover{background-color: rgb(70, 70, 70); transition: 0.3s;}
+.h-footer_corp{margin-left: auto;}
