@@ -1,0 +1,8 @@
+@keyframes show {
+    0%{opacity: 0; padding-top: 50px;}
+    100%{opacity: 1; padding-top: 0px;}
+}
+#wrap{width:100%; height:1000px;}
+.showelement{animation: 3s show;}
+.mainNav{width:100%; height:40px; background-color:pink; text-align:center; line-height:40px; margin-top: 500px;}
+.scrollNav{width:100%; height:50px; background-color:lightblue; text-align:center; line-height:50px; color:#fff; font-weight:600;}
